@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/hcm/.vim'
+let g:netrw_dirhist_2='/home/hcm/.config/nvim'
+let g:netrw_dirhist_3='/home/hcm/.config'
+let g:netrw_dirhist_4='/home/hcm/.config/nvim'
+let g:netrw_dirhist_5='/home/hcm/MyLIGGGHTS/Project/project1'
+let g:netrw_dirhist_6='/home/hcm/catkin_ws/src/denso/vs060'
+let g:netrw_dirhist_7='/opt/ros/kinetic/share'
