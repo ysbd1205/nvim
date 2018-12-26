@@ -25,6 +25,7 @@ hi Pmenu guifg=white guibg=grey
 colorscheme desert
 
 inoremap <silent> jj <ESC>
+inoremap <silent> kk <ESC>
 nnoremap j gj
 vnoremap j gj
 nnoremap k gk
@@ -84,5 +85,5 @@ endif
 filetype plugin indent on
 syntax enable
 
-autocmd vimenter * NERDTree
-autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
+"autocmd vimenter * NERDTree
+"autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
