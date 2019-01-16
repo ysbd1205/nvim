@@ -7,7 +7,7 @@ set matchpairs& matchpairs+=<:>
 
 set ignorecase
 set clipboard&
-set clipboard^=unnamedplus
+set clipboard+=unnamedplus
 set mouse=a
 set autoindent
 set smartindent
